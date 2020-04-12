@@ -1,0 +1,78 @@
+
+{
+    "HomePage":
+        {
+            "camera":"https://raw.githubusercontent.com/shakuneko/wk44/master/icon/camera.png",
+            "sign":"https://raw.githubusercontent.com/shakuneko/wk44/master/icon/sign.png",
+            "box":"https://raw.githubusercontent.com/shakuneko/wk44/master/icon/box.png",
+            "home":"https://raw.githubusercontent.com/shakuneko/wk44/master/scr/icon/home.png",
+            "search":"https://raw.githubusercontent.com/shakuneko/wk44/master/scr/icon/search.png",
+            "add2":"https://raw.githubusercontent.com/shakuneko/wk44/master/scr/icon/add2.png",
+            "like":"https://raw.githubusercontent.com/shakuneko/wk44/master/scr/icon/like.png",
+            "ii":"https://raw.githubusercontent.com/shakuneko/wk44/master/scr/icon/ii.png"
+        },
+    "MessagePage":
+        {
+            "back":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/back.png",
+            "myname":"mayu.0w0",
+            "down":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/down.png",
+            "video":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/video.png",
+            "pen":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/pen.png"
+    
+        },
+
+    "search":
+        {
+            "gsearch":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/gsearch.png",
+            "w1":"搜尋",
+            "w2":"訊息",
+            "bcamera":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/bcamera.png",
+            "w3":"相機"
+        },
+
+    "f1":
+        {
+            "picture":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/2.png",
+            "id":"penguinnn0314",
+            "w":"5則訊息．3小時前",
+            "camera":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/camera.png"
+        },
+
+    "f2":
+        {
+            "picture":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/3.png",
+            "id":"cute_seallll520",
+            "w":" 2則訊息．5小時前"
+        },
+
+    "f3":
+        {
+            "picture":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/5.png",
+            "id":"kanahei_animal",
+            "w":"1則訊息．2天前    "
+        },
+
+    "f4":
+        {
+            "picture":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/6.png",
+            "id":"raccoon1117",
+            "w":"    已回復你的限時動態"
+        },
+
+    "f5":
+        {
+            "picture":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/4.png",
+            "id":"kapibara_deitsuki",
+            "w":"昨天上線             "
+        },
+
+    "f6":
+        {
+            "picture":"https://raw.githubusercontent.com/shakuneko/detail/master/icon2/7.png",
+            "id":"tanukiandfox09",
+            "w":"   傳送了一張貼圖  "
+        }
+        
+
+    
+}
